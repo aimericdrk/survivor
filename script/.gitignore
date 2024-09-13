@@ -1,0 +1,4 @@
+.env
+survivorpythonvenv/
+__pycache__/
+errors.txt

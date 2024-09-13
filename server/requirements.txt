@@ -1,0 +1,6 @@
+requests==2.31.0
+pymongo==4.8.0
+python-dotenv==1.0.1
+load_dotenv==0.1.0
+fastapi==0.112.2
+uvicorn==0.30.6

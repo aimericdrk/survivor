@@ -1,0 +1,5 @@
+eslint.config.mjs
+package-lock.json
+node_modules
+.env
+__pycache__
